@@ -49,13 +49,13 @@ Estoy abierto a nuevas oportunidades y conexiones para seguir creciendo en el mu
 
 ---
 
-### 📈 Proyectos Destacado: Optimización de Marketing
+### 📈 Proyecto Destacado
 
-**Análisis de Rentabilidad y Comportamiento de Compra**
-* **Situación:** Una plataforma de ticketing necesitaba optimizar su gasto publicitario.
-* **Acción:** Análisis de LTV, CAC y ROMI utilizando Python para procesar registros de visitas y pedidos.
-* **Resultado:** Se identificaron canales con un **ROMI del 159.5%** y se recomendó la redistribución del presupuesto hacia fuentes con un CAC 68% más bajo.
-* [Ver Repositorio ↗️](https://github.com/LuisPeza/Proyecto_9/blob/main/README.md)
+**Movilidad urbana y productividad económica (American Development Bank)**
+* **Situación:** El banco buscaba entender cómo la congestión vehicular y los tiempos de viaje afectan la productividad económica en las principales ciudades del mundo.
+* **Acción:** Se limpiaron y unificaron dos fuentes de datos (TomTom Traffic Index y OECD Cities) en un dataset único para el año 2024. Se aplicaron análisis exploratorios y visualizaciones en Python (pandas, seaborn, matplotlib).
+* **Resultado:** Se identificaron ciudades con alta congestión y baja productividad, candidatas a inversión en infraestructura de transporte, y se evidenció la correlación entre desempleo y niveles de tráfico.
+* [Ver Repositorio ↗️](https://github.com/GalileaCabrales/Proyecto-3/blob/main/README.md)
 
 **Modelado de Abandono de Suscripción (Churn) en Gimnasios**
 **Situación:** Analizar los perfiles digitalizados de los clientes para elaborar una estrategia de retención efectiva basada en su comportamiento y características demográficas.
