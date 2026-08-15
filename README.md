@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://github.com/LuisPeza/Imagen/blob/main/ana.png?raw=true" alt="Banner Analista de Datos Luis Pérez" width="100%">
+  <img src="https://github.com/GalileaCabrales/perfil-gali/blob/main/images/Banner%20Para%20LinkedIn%20Licenciada%20En%20Marketing%20Minimalista%20Beige.png?raw=true"  alt="Banner Analista de Datos Galilea Cabrales" width="100%">
 </p>
 
-<h1 align="center"> Hola, soy Luis Pérez 👋 </h1>
+<h1 align="center"> Hola, soy Galilea Cabrales 👋 </h1>
 
 <p align="center">
-  <strong>Ingeniero de Sistemas | Analista de Datos Jr. | Especialista en Infraestructura TI</strong>
+  <strong>Ingeniera en Computación Administrativa | Analista de Datos Jr. | Gestión de Proyectos </strong>
 </p>
 
 <p align="center">
-  <a href="mailto:luisperzamo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/luisgpzamorano/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:galileacabralespriego@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/galilea-cabrales-priego-analista-de-datos/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <img src="https://img.shields.io/github/followers/LuisPeza?label=Followers&style=for-the-badge" alt="Followers" />
 </p>
 
@@ -18,11 +18,11 @@
 
 ### 🚀 Sobre mí
 
-Ingeniero con **+8 años de experiencia** transformando la infraestructura tecnológica en el sector comercial. Mi trayectoria combina la solidez técnica de la administración de sistemas y redes con una especialización estratégica en **Análisis de Datos**. 
+Soy Analista de Datos Jr con experiencia en **SQL**, **Power BI** y **Python**, apasionado por transformar datos en decisiones estratégicas.  
+Cuento con una maestría en **Gestión de TI** y formación en **Ingeniería en Computación Administrativa**, lo que me permite unir el análisis de datos con la gestión de proyectos.  
 
-* **Enfoque actual:** Optimización de procesos y toma de decisiones mediante el uso de Python, SQL y herramientas de visualización.
-* **Logros clave:** Implementación de tableros automatizados de ROI y gestión integral de migraciones tecnológicas sin interrupción operativa.
-* **Especialista en:** Metodología STAR para la resolución de problemas y entrega de resultados medibles.
+Actualmente estoy cursando el bootcamp de **Análisis de Datos en TripleTen**, fortaleciendo mis habilidades prácticas en proyectos reales.  
+Estoy abierto a nuevas oportunidades y conexiones para seguir creciendo en el mundo del análisis de datos y la gestión de proyectos. 🚀   
 
 ---
 
